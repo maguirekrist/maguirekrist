@@ -1,7 +1,7 @@
 ## stuff I'm working on
 - [PdfWell - PDF Processor in C#](https://github.com/maguirekrist/PdfWell)
 - FileWell - modernizing form intake one PDF at a time (coming soon).
-- [C++ voxel engine in C++](https://github.com/maguirekrist/voxel_enginevk)
+- [voxel engine in C++](https://github.com/maguirekrist/voxel_enginevk)
 <!--
 **maguirekrist/maguirekrist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
